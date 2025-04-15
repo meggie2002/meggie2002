@@ -1,13 +1,13 @@
 # Hi, I'm Megha R S 👋
 
-Data Science & Analytics Graduate Student | Machine Learning & Data Visualization Enthusiast
+Data Science & Analytics Graduate Student | Transforming Data into Impactful Solutions
 
 ## About Me
 
 - 📍 Calgary, AB
 - ✉️ [meghars46@gmail.com](mailto:meghars46@gmail.com)
 - 💼 [LinkedIn](https://linkedin.com/in/megha-rs)
-- 👩‍🎓 Currently mastering data science and analytics at the University of Calgary. Passionate about uncovering insights through data!
+- 👩‍🎓 Currently pursuing a Master's in Data Science at the University of Calgary, focusing on advanced analytical techniques and predictive modeling.
 
 ## Skills and Interests
 
@@ -37,14 +37,6 @@ Data Science & Analytics Graduate Student | Machine Learning & Data Visualizatio
 - **Predictive Analysis of Mental Health Trends in the Tech Industry**: Predicted mental health outcomes using XGBoost, providing actionable insights.
 - **VALORANT Data Analysis Dashboard (Power BI)**: Created interactive dashboards visualizing agent abilities and weapon performance using dynamic filters.  
 
-## Education
-
-- **University of Calgary**
-  - Master of Data Science and Analytics (Jan 2025–Present)
-- **Vellore Institute of Technology**
-  - Postgraduate Diploma in Data Science (Aug 2023–July 2024)
-- **Amrita Vishwa Vidyapeetham**
-  - Bachelor of Computer Applications – Data Science (Aug 2020–July 2023)
 
 ## Work Experience
 
