@@ -45,7 +45,14 @@ Data Science & Analytics Graduate Student | Transforming Data into Impactful Sol
 
 ## Certifications
 
-- **Oracle Cloud Infrastructure 2023 AI Foundations Associate** - *Issued August 10, 2024*
+- **Oracle Cloud Infrastructure 2023 AI Foundations Associate**  
+  *Issued August 10, 2024*
+
+- **Google Analytics Certification**  
+  *Google*  
+  Issued: May 24, 2025 | Expires: May 24, 2026  
+  Certificate ID: 144420543
+
 
 ## Contact Me
 
