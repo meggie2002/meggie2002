@@ -36,8 +36,7 @@ Data Science & Analytics Graduate Student | Transforming Data into Impactful Sol
 - **Aircraft Price Prediction Using Multiple Linear Regression Model**: Developed a model explaining 92.48% of price variation using technical specifications.
 - **Predictive Analysis of Mental Health Trends in the Tech Industry**: Predicted mental health outcomes using XGBoost, providing actionable insights.
 - **VALORANT Data Analysis Dashboard (Power BI)**: Created interactive dashboards visualizing agent abilities and weapon performance using dynamic filters.
-- **North America Greenhouse Gas & Energy Trends (Power BI)**:  
-Visualized 20+ years of greenhouse gas emissions and economic data for North America. Built interactive Power BI dashboards to uncover trends, sectoral impacts, and GDP/energy correlations—delivering actionable insights for climate policy and sustainability.
+- **North America Greenhouse Gas & Energy Trends (Power BI)**: Visualized 20+ years of greenhouse gas emissions and economic data for North America. Built interactive Power BI dashboards to uncover trends, sectoral impacts, and GDP/energy correlations—delivering actionable insights for climate policy and sustainability.
 
 
 
