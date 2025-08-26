@@ -17,6 +17,7 @@ Data Science & Analytics Graduate Student | Transforming Data into Impactful Sol
 - 🤖 Machine Learning: TensorFlow, Scikit-learn
 - 💻 Databases: MySQL (SQL Alchemy, SQLite)
 - 🗣️ NLP & OpenCV
+- AWS, Streamlit, Folium
 
 ## My Toolbox
 
