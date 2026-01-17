@@ -84,6 +84,9 @@ Built classification models on 39,000+ well records to identify upstream predict
 **Master of Data Science and Analytics** | University of Calgary  
 *Jan 2025 - Dec 2025* • GPA: 3.85
 
+**Postgraduate Certificate in Data Science** |  Vellore Institute of Technology 
+*Aug 2023 - July 2024*
+
 **Bachelor of Computer Applications** | Amrita Vishwa Vidyapeetham  
 *Aug 2020 - Jul 2023*
 
