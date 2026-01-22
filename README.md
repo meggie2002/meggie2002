@@ -9,72 +9,74 @@
 
 ---
 
-## 🎯 Value Proposition
-> **I help organizations figure out which AI solutions actually work for their needs, then build them.**
+## 🎯 What I Do
+> **I don't just build models—I figure out what problems need solving, choose the right technical approach, and deliver solutions that work in the real world.**
 
-I don't just build models—I identify the core problem, choose the right technical approach, and deliver solutions that work in the real world. My work bridges the gap between complex data and actionable stakeholder strategy.
+* **Problem assessment** before solution design.
+* **Scientific validation** at every stage.
+* **Clear communication** across technical and non-technical audiences.
 
 ---
 
-## 🛠️ Technical Ecosystem
+## 🛠️ Technical Stack
 
-### **Languages & Core ML**
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" />
-  <img src="https://img.shields.io/badge/sql-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=tensorflow&logoColor=white" />
-</p>
+**Languages & ML** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-black?style=flat-square&logo=xgboost&logoColor=white)
 
-### **Geospatial & Cloud**
-<p align="left">
-  <img src="https://img.shields.io/badge/PostGIS-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/QGIS-%23589632.svg?style=for-the-badge&logo=qgis&logoColor=white" />
-</p>
+**Geospatial & Data Engineering** ![PostGIS](https://img.shields.io/badge/PostGIS-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white) ![Sentinel-2](https://img.shields.io/badge/Sentinel--2-ESA-blue?style=flat-square) ![Rasterio](https://img.shields.io/badge/Rasterio-GIS-green?style=flat-square)
 
-### **Strategy & Validation**
-`AI Platform Evaluation` • `Scientific Validation` • `Strategic Consulting` • `Requirements Analysis`
+**Visualization & Strategy** ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=Power%20BI&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
 
 ---
 
 ## 🚀 Featured Projects
 
-| Project | Key Tech | Impact |
+| Project | Tech Stack | Key Outcome |
 | :--- | :--- | :--- |
-| **[Global Mammal Mapping](https://github.com/meggie2002/Global-Mammal-Conservation)** | Python, PostGIS, AWS | Interactive species filtering for conservation planning. |
-| **[Banff NDVI Carbon Analysis](https://github.com/meggie2002/Banff-NDVI-Carbon-Analysis)** | Rasterio, Sentinel-2 | Automated CO₂ sequestration estimation via satellite imagery. |
-| **[Mental Health XAI](https://github.com/meggie2002/Predictive-Mental-Health-Analysis)** | XGBoost, LIME | Explainable AI models for industry mental health trends. |
+| **[🐾 Global Mammal Conservation](https://github.com/meggie2002/Global-Mammal-Conservation)** | Python, PostGIS, AWS, Streamlit | Interactive spatial mapping for endangered species filtering. |
+| **[🌲 Banff NDVI Carbon Analysis](https://github.com/meggie2002/Banff-NDVI-Carbon-Analysis)** | Python, Rasterio, Sentinel-2 | Automated satellite pipeline to estimate CO₂ sequestration capacity. |
+| **[🧠 Predictive Mental Health](https://github.com/meggie2002/Predictive-Mental-Health-Analysis)** | Python, XGBoost, LIME | Explainable AI (XAI) for mental health trends in tech. |
+| **[⚡ Oil & Gas Risk Assessment](https://github.com/meggie2002/Alberta-Workforce-and-Economic-Trend-Analysis)** | R, SQL, Logistic Regression | Prioritized high-risk wells across 39k+ records for resource efficiency. |
 
 ---
 
-## 📊 My GitHub Impact
+## 💼 Recent Impact
+
+#### 🏥 **AI Implementation Consultant** | Proactive Seniors Ltd.
+*Oct 2025 - Present*
+* Developed systematic evaluation framework for secure, compliant automation.
+* Translated technical capabilities into actionable roadmaps for non-technical stakeholders.
+
+#### 🌍 **Data Science Intern** | Teal Climate
+*Sep 2025 - Dec 2025*
+* Built geospatial ML pipelines for carbon stock assessment.
+* Caught critical calculation errors through scientific validation, ensuring computational correctness.
+
+---
+
+## 📊 Interactive Stats
+<p align="center">
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=meggie2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meggie2002&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=meggie2002&show_icons=true&theme=tokyonight&hide_border=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meggie2002&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=meggie2002&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## 💼 Recent Experience
-
-* **AI Implementation Consultant** @ Proactive Seniors Ltd. (Oct 2025 – Present)
-    * Developed a systematic evaluation framework for secure, compliant AI automation in elder care.
-* **Data Science Intern** @ Teal Climate (Sep 2025 – Dec 2025)
-    * Built geospatial ML pipelines for carbon stock assessment, reducing processing time by 40%.
-
----
-
-## 🎓 Education & Growth
-
-* **Master of Data Science and Analytics** | University of Calgary (2025)
-* **Postgraduate Certificate in Data Science** | VIT (2024)
-* **Bachelor of Computer Applications** | Amrita Vishwa Vidyapeetham (2023)
+## 🎓 Education & Certs
+* **Master of Data Science and Analytics** | University of Calgary (GPA: 3.85)
+* **Postgraduate Certificate in Data Science** | VIT
+* **Bachelor of Computer Applications** | Amrita Vishwa Vidyapeetham
+* 🏆 *Oracle Cloud Infrastructure AI Foundations* | *Google Analytics Certification*
 
 ---
+
+## 📫 Let's Connect
+I'm graduating in **January 2026** and seeking roles in Climate Tech, Healthcare AI, or Geospatial Analytics.
+
+**[LinkedIn](https://linkedin.com/in/meghars)** • **[Portfolio](https://meggie2002.github.io)** • **[Email](mailto:meghars46@gmail.com)**
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=I%20don't%20just%20build%20models,%20I%20figure%20out%20what%20problems%20need%20solving." />
