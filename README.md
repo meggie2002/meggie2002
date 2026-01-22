@@ -1,5 +1,5 @@
 # Hi, I'm Megha 👋 
-**Data Scientist | Climate Tech • Healthcare AI • Conservation Analytics**
+**Data Scientist | Data Analyst | Machine Learning Engineer**
 
 <p align="left">
 <a href="https://linkedin.com/in/meghars"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -20,12 +20,11 @@
 
 ## 🛠️ Technical Stack
 
-**Languages & ML** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![XGBoost](https://img.shields.io/badge/XGBoost-black?style=flat-square&logo=xgboost&logoColor=white)
+*Languages & ML** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
 
-**Geospatial & Data Engineering** ![PostGIS](https://img.shields.io/badge/PostGIS-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white) ![Sentinel-2](https://img.shields.io/badge/Sentinel--2-ESA-blue?style=flat-square) ![Rasterio](https://img.shields.io/badge/Rasterio-GIS-green?style=flat-square)
+**Geospatial & Engineering** ![QGIS](https://img.shields.io/badge/QGIS-%23589632.svg?style=flat-square&logo=qgis&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white) ![Rasterio](https://img.shields.io/badge/Rasterio-GIS-green?style=flat-square)
 
-**Visualization & Strategy** ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=Power%20BI&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
-
+**Visualization** ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=Power%20BI&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
 ---
 
 ## 🚀 Featured Projects
@@ -58,10 +57,6 @@
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=meggie2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meggie2002&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,javascript" />
 </p>
-
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=meggie2002&theme=tokyonight&hide_border=true" />
-</p>
 ---
 
 ## 🎓 Education & Certs
@@ -79,10 +74,4 @@ I am **currently seeking full-time opportunities** and contract projects where I
 <a href="https://linkedin.com/in/meghars"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://meggie2002.github.io"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
 <a href="mailto:meghars46@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
-
-<br />
-
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=I%20don't%20just%20build%20models,%20I%20figure%20out%20what%20problems%20need%20solving." />
 </p>
