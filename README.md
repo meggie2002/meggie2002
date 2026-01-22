@@ -10,7 +10,7 @@
 ---
 
 ## 🎯 What I Do
-> **I don't just build models—I figure out what problems need solving, choose the right technical approach, and deliver solutions that work in the real world.**
+> **I don't just build models; I figure out what problems need solving, choose the right technical approach, and deliver solutions that work in the real world.**
 
 * **Problem assessment** before solution design.
 * **Scientific validation** at every stage.
@@ -55,14 +55,14 @@
 
 ## 📊 Interactive Stats
 <p align="center">
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=meggie2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meggie2002&layout=compact&theme=tokyonight&hide_border=true" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=meggie2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meggie2002&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,javascript" />
 </p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=meggie2002&theme=tokyonight&hide_border=true" />
 </p>
-
 ---
 
 ## 🎓 Education & Certs
@@ -74,9 +74,15 @@
 ---
 
 ## 📫 Let's Connect
-I'm graduating in **January 2026** and seeking roles in Climate Tech, Healthcare AI, or Geospatial Analytics.
+I am **currently seeking full-time opportunities** and contract projects where I can apply Data Science to solve complex real-world challenges.
 
-**[LinkedIn](https://linkedin.com/in/meghars)** • **[Portfolio](https://meggie2002.github.io)** • **[Email](mailto:meghars46@gmail.com)**
+<p align="left">
+<a href="https://linkedin.com/in/meghars"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://meggie2002.github.io"><img src="https://img.shields.io/badge/Portfolio-252525?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
+<a href="mailto:meghars46@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+<br />
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=I%20don't%20just%20build%20models,%20I%20figure%20out%20what%20problems%20need%20solving." />
