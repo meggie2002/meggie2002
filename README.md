@@ -20,11 +20,12 @@
 
 ## 🛠️ Technical Stack
 
-*Languages & ML** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
+**Languages & ML** ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=flat-square&logo=r&logoColor=white) ![SQL](https://img.shields.io/badge/sql-%2300758F.svg?style=flat-square&logo=mysql&logoColor=white) ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=tensorflow&logoColor=white)
 
 **Geospatial & Engineering** ![QGIS](https://img.shields.io/badge/QGIS-%23589632.svg?style=flat-square&logo=qgis&logoColor=white) ![PostGIS](https://img.shields.io/badge/PostGIS-%23336791.svg?style=flat-square&logo=postgresql&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=flat-square&logo=docker&logoColor=white) ![Rasterio](https://img.shields.io/badge/Rasterio-GIS-green?style=flat-square)
 
 **Visualization** ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=Tableau&logoColor=white) ![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=flat-square&logo=Power%20BI&logoColor=black) ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=Streamlit&logoColor=white)
+
 ---
 
 ## 🚀 Featured Projects
@@ -55,7 +56,7 @@
 ## 📊 Interactive Stats
 <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=meggie2002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meggie2002&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,javascript" />
+<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=meggie2002&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,javascript" />
 </p>
 ---
 
