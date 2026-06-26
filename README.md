@@ -1,5 +1,5 @@
 # Hi, I'm Megha 👋 
-**Data Scientist | Data Analyst | Machine Learning Engineer**
+**Data Scientist | Data Analyst **
 
 <p align="left">
 <a href="https://linkedin.com/in/megha-rs"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -41,7 +41,7 @@
 
 ## 💼 Recent Impact
 
-#### 🏥 **AI Platform Evaluation & Integration Intern.** | Proactive Seniors Ltd.
+#### 🏥 **AI Platform Evaluation & Integration Intern** | Proactive Seniors Ltd.
 *Oct 2025 - Mar 2026*
 * Developed systematic evaluation frameworks for secure, compliant automation and **regulatory alignment**.
 * Conducted **ROI modeling** to justify AI platform adoption and operational cost-savings.
