@@ -41,7 +41,7 @@
 
 ## 💼 Recent Impact
 
-#### 🏥 **AI Implementation Consultant** | Proactive Seniors Ltd.
+#### 🏥 **AI Platform Evaluation & Integration Intern.** | Proactive Seniors Ltd.
 *Oct 2025 - Mar 2026*
 * Developed systematic evaluation frameworks for secure, compliant automation and **regulatory alignment**.
 * Conducted **ROI modeling** to justify AI platform adoption and operational cost-savings.
